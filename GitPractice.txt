@@ -1,0 +1,8 @@
+check the diff 
+git diff
+
+to generate the ssh key use below 
+ssh-keygen -t rsa -C darshan.gail.com
+
+to check if you can authenticate the git hub ssh key 
+ssh -t git@github.com
